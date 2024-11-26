@@ -1,4 +1,4 @@
-# Portafolio Avanzado
+# Portafolio Básico
 
 Este es un portafolio básico creado con HTML, CSS y JavaScript. Está diseñado para mostrar mis habilidades y experiencia en el desarrollo web.
 
